@@ -1,1 +1,103 @@
+{
+  "ScDiffs": ["Insane", "Extreme", "Terrifying", "Catastrophic", "Horrific", "Unreal"],
+  
+  "Impossible": {
+    "Title": "Impossible",
+    "Rating": 999,
+    "FancyFont": false,
+    "Color": [255, 255, 255],
+    "GlobalAnnouncement": false
+  },
 
+  "Easy": {
+    "Title": "Easy",
+    "Rating": 1,
+    "FancyFont": false,
+    "Color": [119, 243, 71],
+    "GlobalAnnouncement": false
+  },
+  "Medium": {
+    "Title": "Medium",
+    "Rating": 2,
+    "FancyFont": false,
+    "Color": [255, 255, 0],
+    "GlobalAnnouncement": false
+  },
+  "Hard": {
+    "Title": "Hard",
+    "Rating": 3,
+    "FancyFont": false,
+    "Color": [254, 124, 0],
+    "GlobalAnnouncement": false
+  },
+  "Difficult": {
+    "Title": "Difficult",
+    "Rating": 4,
+    "FancyFont": false,
+    "Color": [255, 12, 3],
+    "GlobalAnnouncement": false
+  },
+  "Challenging": {
+    "Title": "Challenging",
+    "Rating": 5,
+    "FancyFont": false,
+    "Color": [194, 0, 0],
+    "GlobalAnnouncement": false
+  },
+  "Intense": {
+    "Title": "Easy",
+    "Rating": 6,
+    "FancyFont": false,
+    "Color": [25, 34, 45],
+    "GlobalAnnouncement": false
+  },
+  "Remorseless": {
+    "Title": "Remorseless",
+    "Rating": 7,
+    "FancyFont": false,
+    "Color": [201, 0, 200],
+    "GlobalAnnouncement": false
+  },
+  "Insane": {
+    "Title": "Insane",
+    "Rating": 8,
+    "FancyFont": false,
+    "Color": [0, 0, 255],
+    "GlobalAnnouncement": true
+  },
+  "Extreme": {
+    "Title": "Extreme",
+    "Rating": 9,
+    "FancyFont": false,
+    "Color": [2, 138, 255],
+    "GlobalAnnouncement": true
+  },
+  "Terrifying": {
+    "Title": "Terrifying",
+    "Rating": 10,
+    "FancyFont": false,
+    "Color": [0, 255, 255],
+    "GlobalAnnouncement": true
+  },
+  "Catastrophic": {
+    "Title": "Catastrophic",
+    "Rating": 11,
+    "FancyFont": true,
+    "Color": [255, 255, 255],
+    "GlobalAnnouncement": true
+  },
+  "Horrific": {
+    "Title": "Horrific",
+    "Rating": 12,
+    "FancyFont": true,
+    "Color": [150, 145, 255],
+    "GlobalAnnouncement": true
+  },
+  "Unreal": {
+    "Title": "Unreal",
+    "Rating": 13,
+    "FancyFont": true,
+    "Color": [75, 0, 200],
+    "GlobalAnnouncement": true
+  }
+}
