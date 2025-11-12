@@ -1,0 +1,11 @@
+{
+  "Realm 1": {
+    "Definitely Not a Cave Tower": {"Difficulty": "Challenging", "NumDifficulty": 0.94},
+    "Citadel of The Long Way": {"Difficulty": "Intense", "NumDifficulty": 0.99},
+    "Tower of Harsh Simplicity": {"Difficulty": "Remorseless", "NumDifficulty": 0.51}
+  },
+  "Ring 2": {
+    "Towel of Tower": {"Difficulty": "Easy", "NumDifficulty": 0.00},
+    "Tower of of of of of of of of of": {"Difficulty": "Unreal", "NumDifficulty": 0.99}
+  }
+}
