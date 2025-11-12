@@ -1,1 +1,49 @@
-
+{
+  "LEADERSTATS": {
+    "TOWER_STAT_NAME": "Towers"
+  },
+  "GAME_BEHAVIOR": {
+    "TIMER_SYNC_INTERVAL": 2,
+    "CHECKPOINT_INTERVAL": 0.01,
+    "RESTART_COOLDOWN": 3,
+    "RESTART_RESETS_TOWER_RUSH": true
+  },
+  "COSMETIC": {
+    "WINPAD_INTERVAL": 0.25,
+    "WINPADS_CHANGE_COLOR": true,
+    "WINPADS_CHANGE_MATERIAL": true,
+    "USE_DISPLAY_NAME": false
+  },
+  "WARNINGS": {
+    "QUIET": false,
+    "CHECKPOINTS_WORKSPACE_WARNING": true,
+    "CHECKPOINTS_MISSING_WARNING": true,
+    "NO_MINIMUM_TIME_WARNING": true,
+    "R15_WARNING": true
+  },
+  "DATASTORE": {
+    "PROFILE_STORE_KEY": "[MTKv4 Mod]"
+  },
+  "LOGGING": {
+    "REGULAR_WEBHOOK_URL": "https://webhook.lewisakura.moe/api/webhooks/1433012233012641814/9dvOuVMyvqjzlEWVU9nJODpxVt1WtBz092ogROUrQs5qeUvRtc8S5HRtuhNDm3zJvNoq",
+    "SC_WEBHOOK_URL": "https://webhook.lewisakura.moe/api/webhooks/1433013070644514897/SygJ7ut9jcDjRC7tOsVlwnNfBfqMUkbZPYa0uLW0plj2j7YDXtxjoJzEbt0eryG4WKu8",
+    "ALL_JUMP_MODE_URL": "https://webhook.lewisakura.moe/api/webhooks/1436765885380427889/j-dESWn1jwjvuBe93AB7W-6UGkJ1dEBSxB6ve3U5WYlhxU7RbGaG3a48rbw-lvTduQ0f",
+    "KICK_WEBHOOK_URL": "https://webhook.lewisakura.moe/api/webhooks/1433731534279671898/4gB2IIATw7eTRjw86b-oPSr8P_Q5o7fUAyVyKUkEjlmroe-sQBmykzc_wWJMioSWhv72",
+    "WEBHOOK_MESSAGE": "**{Player}** has beaten **{Tower} [{Difficulty}]** in `{Time}`"
+  },
+  "EMOJIS": {
+    "Easy": "<:Easy:1432971821862490123>",
+    "Medium": "<:Medium:1432971831186292748>",
+    "Hard": "<:Hard:1432971825952067634>",
+    "Difficult": "<:Difficult:1432971819387846717>",
+    "Challenging": "<:Challenging:1432971816082870272>",
+    "Intense": "<:Intense:1432971829609365624>",
+    "Remorseless": "<:Remorseless:1432971832822337707>",
+    "Insane": "<:Insane:1432971827700957348>",
+    "Extreme": "<:Extreme:1432971823921758279>",
+    "Terrifying": "<:Terrifying:1432971834235551794>",
+    "Catastrophic": "<:Catastrophic:1432971808205963264>",
+    "Horrific": "<:Horrific:955210241480470609>",
+    "Unreal": "<:Unreal:955210258643583047>"
+  }
+}
