@@ -1,0 +1,44 @@
+{
+  "Colors": {
+    "Easy": [118, 244, 71],
+    "Medium": [255, 255, 0],
+    "Hard": [254, 124, 0],
+    "Difficult": [255, 12, 3],
+    "Challenging": [194, 0, 0],
+    "Intense": [25, 34, 45],
+    "Remorseless": [201, 0, 200],
+    "Insane": [0, 0, 255],
+    "Extreme": [2, 138, 255],
+    "Terrifying": [0, 255, 255],
+    "Catastrophic": [255, 255, 255],
+    "Horrific": [150, 150, 255],
+    "Unreal": [75, 0, 200]
+  },
+  "DifficultyRatings": {
+    "Easy": 1,
+    "Medium": 2,
+    "Hard": 3,
+    "Difficult": 4,
+    "Challenging": 5,
+    "Intense": 6,
+    "Remorseless": 7,
+    "Insane": 8,
+    "Extreme": 9,
+    "Terrifying": 10,
+    "Catastrophic": 11,
+    "Horrific": 12,
+    "Unreal": 13
+  },
+  "NumDifficultyRanges": [
+    [0.0, 0.0, "Baseline", [150, 255, 200]],
+    [0.01, 0.1, "Bottom", [35, 202, 132]],
+    [0.11, 0.21, "Bottom-Low", [35, 202, 65]],
+    [0.22, 0.32, "Low", [89, 202, 35]],
+    [0.33, 0.44, "Low-Mid", [151, 202, 35]],
+    [0.45, 0.55, "Mid", [201, 202, 35]],
+    [0.56, 0.66, "Mid-High", [202, 164, 35]],
+    [0.67, 0.77, "High", [202, 125, 35]],
+    [0.78, 0.88, "High-Peak", [202, 74, 35]],
+    [0.89, 0.99, "Peak", [202, 35, 35]]
+  ]
+}
