@@ -1,0 +1,8 @@
+{
+  "Areas": {
+    "Realm Select": {"PlaceId": 0, "Required": 0, "LayoutOrder": 0},
+    "Realm 1: Depths": {"PlaceId": 74101765019635, "Required": 0, "LayoutOrder": 1},
+    "Realm 2: ???": {"PlaceId": 0, "Required": 4, "LayoutOrder": 2},
+    "rilm fre: kweshun marg kweshun marg kweshun marg": {"PlaceId": 0, "Required": 0, "LayoutOrder": 3}
+  }
+}
