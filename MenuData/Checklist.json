@@ -3,7 +3,7 @@
     "Definitely Not a Cave Tower": {"Difficulty": "Challenging", "NumDifficulty": 0.94},
     "Citadel of The Long Way": {"Difficulty": "Intense", "NumDifficulty": 0.99},
     "Tower of Harsh Simplicity": {"Difficulty": "Remorseless", "NumDifficulty": 0.51},
-    "Steeple of Climbing a Mountain": {"Difficulty": "Difficult", "NumDifficulty": 0.88},
+    "Steeple of Climbing a Mountain": {"Difficulty": "Difficult", "NumDifficulty": 0.88}
   },
   "Ring 2": {
     "Towel of Tower": {"Difficulty": "Easy", "NumDifficulty": 0.00},
